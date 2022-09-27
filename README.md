@@ -9,3 +9,6 @@ by Elad Aigner-Horev and Erel Segal-Halevi (see https://arxiv.org/abs/1901.09527
 
 Gan_Algorithm.py can be found in the paper "Envy-freeness in house allocation problems"
 by Jiarui Gan, Warut Suksompong, and Alexandros A. Voudouris (see https://www.sciencedirect.com/science/article/pii/S0165489619300599)
+
+Note, I particularly enjoyed writing the getMaxWeight function in Algo_1 (lines 38-54) because it involved
+recursion and was the most algorithmically complex part of the code.
